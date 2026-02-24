@@ -1,3 +1,5 @@
+**This project has been migrated to the Crossplane GitHub org at <https://github.com/crossplane/function-template-typescript>.**
+
 # Crossplane Function Template - TypeScript <!-- omit in toc -->
 
 This repository is a template for building Crossplane composition functions in TypeScript using the [@crossplane-org/function-sdk-typescript](https://github.com/crossplane/function-sdk-typescript).
